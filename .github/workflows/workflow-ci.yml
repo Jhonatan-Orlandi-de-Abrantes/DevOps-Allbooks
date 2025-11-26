@@ -20,3 +20,4 @@ jobs:
         node-version: 24.11.1
     - run: npm install
     - run: npm test
+      working-directory: ./DevOps-Allbooks/allbooks
